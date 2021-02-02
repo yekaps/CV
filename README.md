@@ -16,7 +16,7 @@ else:
 ```
 ###
 
-Foto(Lokāls un to interneta resursiem):
+Foto(No interneta resursiem un lokāls):
 
 ![Trijsturis](https://cdn.discordapp.com/attachments/746044143142436954/805891731483787284/220px-Yanghui_triangle.png)
 

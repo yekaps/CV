@@ -54,4 +54,8 @@ else:
 | Suns | Govs |
 | Ezis| Aita |
 
+### Horizontāla līnija:
+
+—————————————————————————————
+
 ###

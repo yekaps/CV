@@ -40,8 +40,14 @@ Saraksts(Ar un bez atzīmēm):
 - [ ] Sapratu, ko daru veicot šo darbu
 - [ ] Esmu apguvis programmēšanu
   
-    ###
+ 
+ 
 
-	| Dinozaurs | Gaļēdājs |
 
-    ###
+
+###
+| Gaļēdāji| Zālēdāji |
+| --- | ----------- |
+| Suns | Govs |
+| Ezis| Aita |
+###

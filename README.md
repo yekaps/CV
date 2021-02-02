@@ -27,7 +27,9 @@ Foto(Lokāls un to interneta resursiem):
 Saraksts:
 
 1.Tomāts
+
 2.Kartupelis
+
 3.Ābols
 
 ###

@@ -6,3 +6,10 @@
 
 '''
 
+Summa = float( input('Ievadi pirkuma summu:'))
+if Summa > 20:
+    print('Summa ir lielaka par 20 euro')
+else:
+    print('Summa ir mazaka par 20 euro')
+
+'''

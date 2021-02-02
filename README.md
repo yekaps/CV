@@ -60,4 +60,4 @@ else:
 
 ### Emocijzīme:
 
-: star :
+:star:

@@ -33,3 +33,9 @@ Saraksts:
 3.Ābols
 
 ###
+
+- [x] Esmu raudājis mācoties programmēšanu
+- [ ] Sapratu, ko daru veicot šo darbu
+- [ ] Esmu apguvis programmēšanu
+  
+  ###

@@ -24,6 +24,7 @@ Foto(Lokāls un to interneta resursiem):
 
 ###
 
+
 Saraksts:
 
 1.Tomāts
@@ -33,6 +34,7 @@ Saraksts:
 3.Ābols
 
 ###
+Saraksts(Ar un bez atzīmēm)
 
 - [x] Esmu raudājis mācoties programmēšanu
 - [ ] Sapratu, ko daru veicot šo darbu

@@ -46,6 +46,9 @@ Saraksts(Ar un bez atzīmēm):
 
 
 ###
+
+Tabula:
+
 | Gaļēdāji| Zālēdāji |
 | --- | ----------- |
 | Suns | Govs |

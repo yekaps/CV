@@ -23,3 +23,11 @@ Foto(Lokāls un to interneta resursiem):
 ![Mazs dzivnieks ar cepuri](mazsdzivnieks.jpg)
 
 ###
+```
+Saraksts:
+
+1.Tomāts
+2.Kartupelis
+3.Ābols
+
+```
